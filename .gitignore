@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.env
+*.json
+venv/
+__pycache__/
+.pytest_cache/
+.tmp_dagster_home*/
+*.db
